@@ -1,0 +1,22 @@
+# Secrets (API keys live here)
+.env
+.env.*
+!.env.example
+
+# Virtual environment (uv)
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
