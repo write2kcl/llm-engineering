@@ -1,0 +1,115 @@
+ACME CORPORATION - COMPANY POLICIES
+Effective: January 1, 2026
+Policy owner for customer policies: Sofia Delgado, Chief Operating Officer
+Policy owner for employee policies: Marcus Chen, Chief People Officer
+Questions about any policy can be sent to policy@acme-corp.example
+
+PART A - CUSTOMER POLICIES
+
+1. RETURN AND REFUND POLICY
+
+Most items bought from Acme can be returned within 30 days of delivery for a full refund. Acme Plus members get an extended 45-day return window. During the holiday season, items bought between November 1 and December 31 can be returned until January 31 of the following year.
+
+To start a return, customers go to "Your Orders" on the website or app and select "Return Item". Customers can drop off returns for free at any Acme Return Point (more than 8,000 locations, including partner shipping stores) or schedule a pickup for 5.99 dollars. Pickup is free for Acme Plus members.
+
+Refunds go back to the original payment method within 3 to 5 business days after Acme receives the item. Customers who choose an Acme Gift Card balance instead get the refund within 24 hours.
+
+Items that cannot be returned: perishable grocery items, gift cards, downloaded software and e-books after they have been opened, personalized or engraved items, and opened personal care items such as razors and cosmetics. If a grocery item arrives damaged or spoiled, the customer can request a refund within 7 days with a photo, and no return is needed.
+
+Electronics must be returned with all accessories and original packaging. Opened electronics returned without damage get a full refund. Electronics returned with missing parts or damage caused by the customer may be charged a restocking fee of up to 15 percent.
+
+Mattresses sold under the Acme Home brand have a 100-night home trial. If the customer is not happy, Acme arranges free pickup and donates the mattress to a local charity.
+
+2. SHIPPING AND DELIVERY POLICY
+
+Standard shipping is free on orders of 35 dollars or more and takes 4 to 6 business days. Orders under 35 dollars pay a 5.99 dollar shipping fee. Expedited shipping (2 business days) costs 9.99 dollars and is free for Acme Plus members. Next-day shipping costs 14.99 dollars, or 4.99 dollars for Acme Plus members.
+
+Same-day delivery is available in 12 cities: Denver, Dallas, Houston, Austin, Columbus, Chicago, Reno, Las Vegas, Phoenix, Tampa, Orlando and Atlanta. Orders must be placed by 12:00 PM local time. Same-day delivery is free for Acme Plus members on orders over 35 dollars, and costs 12.99 dollars for everyone else.
+
+Acme currently ships to all 50 US states and Puerto Rico. Acme does not ship internationally. Hazardous items such as lithium batteries over 100 Wh cannot be shipped to Alaska, Hawaii or Puerto Rico.
+
+If a package is marked delivered but the customer cannot find it, they should wait 48 hours and then contact customer support. Acme will send a free replacement or a full refund for any lost package.
+
+3. PRICE MATCH POLICY
+
+Acme matches the price of identical new items sold by major US retailers that have both online and physical stores. The customer must request the match within 14 days of purchase. Price match does not apply to marketplace sellers, auction sites, clearance sales, Black Friday or Cyber Monday deals, or Acme Days prices. Each customer can get up to 5 price matches per calendar year.
+
+4. ACME PLUS MEMBERSHIP TERMS
+
+Acme Plus renews automatically every month or year. Members can cancel at any time from "Account Settings". Members who cancel within 3 days of being charged and have not used any benefits during that billing period get a full refund. Otherwise, benefits continue until the end of the billing period and no partial refund is given. One Acme Plus membership can be shared with one other adult in the same household.
+
+5. CUSTOMER PRIVACY POLICY
+
+Acme collects customer name, address, email, phone number, order history, payment details and browsing activity on Acme sites. This data is used to process orders, personalize recommendations, prevent fraud and improve the service. Acme does not sell customer personal data to third parties.
+
+Payment card numbers are encrypted and are never stored on Acme servers; they are handled by a PCI DSS Level 1 certified payment processor. Customers can download a copy of their data or request deletion of their account from the "Privacy Center" in account settings. Deletion requests are completed within 30 days. Order records are kept for 7 years for tax and legal reasons even after an account is deleted.
+
+Privacy questions go to Acme's Data Protection Officer, Priya Natarajan, at privacy@acme-corp.example.
+
+6. PRODUCT REVIEW POLICY
+
+Only customers who have bought a product can leave a "Verified Purchase" review. Acme removes reviews that contain hate speech, personal information, links or spam, and reviews written in exchange for payment or free products. Sellers may not offer refunds or gifts in exchange for reviews. Breaking this rule can get a seller removed from Acme.
+
+PART B - EMPLOYEE POLICIES
+
+7. WORK HOURS AND REMOTE WORK POLICY
+
+Corporate employees follow a hybrid schedule: at least 3 days per week in the office (Tuesday, Wednesday and Thursday are the required "anchor days"). Employees can work fully remotely only with written approval from their Vice President and the Chief People Officer. Fulfillment center and customer support employees work on site in scheduled shifts.
+
+Core collaboration hours for corporate employees are 10:00 AM to 3:00 PM Mountain Time. Employees working remotely must be reachable during core hours.
+
+8. PAID TIME OFF (PTO) AND HOLIDAYS
+
+Full-time employees earn paid time off based on years of service:
+- Less than 2 years: 15 days per year
+- 2 to 5 years: 20 days per year
+- More than 5 years: 25 days per year
+Employees can carry over up to 5 unused PTO days into the next year. Carried-over days expire on March 31.
+
+Acme observes 11 paid company holidays each year, including New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving and the day after, and Christmas Day. Employees also get 2 floating holidays to use for any personal, cultural or religious occasion.
+
+Sick leave is separate from PTO: every employee gets 10 paid sick days per year.
+
+9. PARENTAL AND FAMILY LEAVE
+
+Birth parents get 20 weeks of fully paid parental leave. Non-birth parents, including adoptive and foster parents, get 12 weeks of fully paid leave. Employees can also take up to 4 weeks of paid family care leave per year to care for a seriously ill family member. Employees must have worked at Acme for at least 90 days to be eligible.
+
+10. COMPENSATION AND BENEFITS
+
+Acme pays employees every two weeks on Friday. Acme matches 100 percent of employee 401(k) contributions up to 5 percent of salary, and the match vests immediately. Health, dental and vision insurance start on the first day of employment. Acme pays 90 percent of the premium for employees and 75 percent for dependents. All employees get a 15 percent discount on Acme house brand products and a free Acme Plus membership. Payroll and benefits questions go to Ben Harper, Payroll and Benefits Manager.
+
+The yearly learning budget is 2,000 dollars per employee for courses, certifications, books and conferences. Approval from the employee's manager is needed before spending it.
+
+11. TRAVEL AND EXPENSE POLICY
+
+Employees must book business travel through the Acme travel portal. Flights under 5 hours must be economy class. Flights of 5 hours or longer may be premium economy. Hotel spending is capped at 250 dollars per night in major cities and 175 dollars per night elsewhere. The meal allowance is 75 dollars per day while traveling.
+
+Expense reports must be submitted within 30 days with receipts for any item over 25 dollars. Managers approve expenses up to 5,000 dollars. Expenses between 5,000 and 50,000 dollars also need approval from the Controller, Elena Petrova. Any single purchase over 50,000 dollars must be approved by the CFO, Rajesh Iyer.
+
+12. CODE OF CONDUCT
+
+All employees must treat customers, coworkers and partners with respect. Acme does not tolerate harassment, discrimination or retaliation of any kind based on race, color, religion, sex, gender identity, sexual orientation, national origin, age, disability, veteran status or any other protected characteristic.
+
+Employees may not accept gifts from suppliers or sellers worth more than 100 dollars in total per year. Any conflict of interest, such as owning shares in a supplier or a relative working for a competitor, must be disclosed to the Legal team.
+
+Employees may not share confidential company information, including unreleased products, sales numbers or customer data, outside the company.
+
+13. INFORMATION SECURITY POLICY
+
+All employees must complete security awareness training within 30 days of joining and again every year. Multi-factor authentication (MFA) is required for all company systems. Passwords must be at least 14 characters and managed with the company password manager. Company data may only be stored on Acme-managed devices and approved cloud storage.
+
+Suspected phishing emails must be reported using the "Report Phishing" button. Any security incident, such as a lost laptop or suspected data leak, must be reported to the security team within 1 hour at security@acme-corp.example. The security program is led by Grace Mbeki, Chief Information Security Officer.
+
+Employees may not paste customer data, source code or confidential documents into public AI tools. Only the company-approved AI assistant may be used for work tasks.
+
+14. WHISTLEBLOWER POLICY
+
+Employees can report suspected fraud, safety violations or illegal behavior to their manager, to Human Resources, or anonymously through the Acme Ethics Hotline at 1-800-555-0199 (available 24 hours a day). Reports can also be sent directly to the Chief Legal Officer, Priya Natarajan. Acme strictly forbids retaliation against anyone who makes a report in good faith.
+
+15. PERFORMANCE REVIEWS AND PROMOTIONS
+
+Performance reviews happen twice a year, in June and December. Employees are rated on a 5-point scale: Exceeds Expectations, Strong, Meets Expectations, Developing, and Below Expectations. Promotions and salary increases are decided in the December review cycle and take effect on February 1.
+
+16. EMPLOYEE REFERRAL PROGRAM
+
+Employees who refer a candidate who is hired get a referral bonus of 2,000 dollars for corporate roles and 500 dollars for fulfillment and support roles. The bonus is paid after the new hire completes 90 days. The referral program is managed by Nadia Hussain, Director of Talent Acquisition.

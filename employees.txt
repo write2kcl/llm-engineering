@@ -1,0 +1,116 @@
+ACME CORPORATION - EMPLOYEE DIRECTORY
+Last updated: November 2026
+Confidential - for internal use only
+
+ABOUT ACME CORPORATION
+
+Acme Corporation is an online retail company founded in 2008 by Margaret Ellison and Daniel Okafor in a rented garage in Boulder, Colorado. It started by selling refurbished electronics and grew into a general online marketplace that sells electronics, home goods, books, fashion, sports gear, toys and groceries. Acme's headquarters is at 1200 Larimer Street, Denver, Colorado. The company has about 4,720 employees, fulfillment centers in Denver, Dallas, Columbus and Reno, and a customer support hub in Tampa, Florida. In fiscal year 2025 Acme reported revenue of 3.2 billion US dollars and 11 million active customers.
+
+Acme's mission statement is: "Everything you need, delivered with care." The company's four core values are Customer First, Own the Outcome, Keep It Simple, and Build Together.
+
+EXECUTIVE LEADERSHIP TEAM
+
+Margaret Ellison - Chief Executive Officer (CEO). Employee ID ACM-0001. Co-founder of Acme Corporation in 2008 and CEO since the company started. Before Acme, Margaret was a merchandising manager at a regional department store chain for nine years. She holds an MBA from the University of Colorado. Margaret reports to the Board of Directors and chairs the weekly executive leadership meeting every Monday at 9:00 AM. Email: margaret.ellison@acme-corp.example
+
+Daniel Okafor - Chief Technology Officer (CTO). Employee ID ACM-0002. Co-founder of Acme. Daniel built the first version of the Acme website himself and led the move of Acme's platform to the cloud in 2019. He oversees engineering, data science, IT and information security. He holds a master's degree in computer science from Georgia Tech. Reports to Margaret Ellison. Email: daniel.okafor@acme-corp.example
+
+Rajesh Iyer - Chief Financial Officer (CFO). Employee ID ACM-0014. Joined Acme in March 2015 from a global accounting firm, where he was an audit partner. Rajesh is a Certified Public Accountant (CPA) and leads finance, accounting, treasury, tax, investor relations and procurement. He is the final approver for any single purchase above 50,000 US dollars. Reports to Margaret Ellison. Email: rajesh.iyer@acme-corp.example
+
+Sofia Delgado - Chief Operating Officer (COO). Employee ID ACM-0021. Joined in 2016 as Director of Fulfillment and was promoted to COO in January 2022. Sofia oversees fulfillment centers, supply chain, logistics and customer experience. She led the opening of the Reno fulfillment center in 2023, which finished two months ahead of schedule. Reports to Margaret Ellison. Email: sofia.delgado@acme-corp.example
+
+Hannah Weiss - Chief Marketing Officer (CMO). Employee ID ACM-0033. Joined Acme in 2018 after working in brand marketing at a consumer electronics company. Hannah launched the Acme Plus membership program in 2020 and runs brand, performance marketing, social media and the annual "Acme Days" sale held every July. Reports to Margaret Ellison. Email: hannah.weiss@acme-corp.example
+
+Marcus Chen - Chief People Officer (CPO). Employee ID ACM-0040. Joined in 2017. Marcus leads human resources, recruiting, learning and development, payroll, benefits and employee relations. He is the owner of the Employee Handbook and the policies on leave, remote work and conduct. Reports to Margaret Ellison. Email: marcus.chen@acme-corp.example
+
+Priya Natarajan - Chief Legal Officer and General Counsel. Employee ID ACM-0052. Joined in 2019 from a technology law firm. Priya leads legal, compliance, privacy and the ethics program. She is also Acme's Data Protection Officer and the contact for whistleblower reports. Reports to Margaret Ellison. Email: priya.natarajan@acme-corp.example
+
+VICE PRESIDENTS AND DIRECTORS
+
+Thomas Brennan - Vice President of Supply Chain and Logistics. Employee ID ACM-0088. Joined in 2016. Manages carrier partnerships, inventory planning and the four fulfillment centers. Reports to Sofia Delgado. Based in Dallas, Texas.
+
+Aiko Tanaka - Vice President of Customer Experience. Employee ID ACM-0102. Joined in 2018. Runs the Tampa customer support hub with about 600 support agents, plus returns processing and the customer satisfaction (CSAT) program. Reports to Sofia Delgado. Based in Tampa, Florida.
+
+Liam O'Connor - Vice President of Engineering. Employee ID ACM-0117. Joined in 2017. Leads about 450 engineers across web, mobile apps, search, payments and the checkout platform. Reports to Daniel Okafor. Based in Denver, Colorado.
+
+Fatima Al-Sayed - Vice President of Product Management. Employee ID ACM-0125. Joined in 2019. Owns the product roadmap for the Acme website, the Acme mobile app and Acme Plus. Reports to Daniel Okafor. Based in Denver, Colorado.
+
+Grace Mbeki - Chief Information Security Officer (CISO). Employee ID ACM-0131. Joined in 2020. Leads information security, the security awareness training program and incident response. Reports to Daniel Okafor. Based remotely in Austin, Texas.
+
+Robert Kowalski - Vice President of Merchandising. Employee ID ACM-0140. Joined in 2014, one of Acme's earliest employees. Leads category managers for all product categories and manages relationships with brand partners. Reports to Hannah Weiss. Based in Denver, Colorado.
+
+Elena Petrova - Controller and Director of Accounting. Employee ID ACM-0158. Joined in 2018. Manages monthly close, accounts payable and expense report approvals. Reports to Rajesh Iyer. Based in Denver, Colorado.
+
+Kevin Park - Director of Data Science. Employee ID ACM-0163. Joined in 2020. His team built Acme's product recommendation engine and the demand forecasting model. Reports to Daniel Okafor. Based in Seattle, Washington (remote).
+
+Nadia Hussain - Director of Talent Acquisition. Employee ID ACM-0171. Joined in 2019. Manages recruiting for all departments and the employee referral program. Reports to Marcus Chen. Based in Denver, Colorado.
+
+CATEGORY MANAGERS (MERCHANDISING)
+
+Carlos Ruiz - Category Manager, Electronics and Computers. Employee ID ACM-0210. Joined in 2017. Responsible for laptops, headphones, smart home devices and the Voltra house brand of electronics. Reports to Robert Kowalski.
+
+Megan Lowe - Category Manager, Home and Kitchen. Employee ID ACM-0224. Joined in 2019. Responsible for cookware, appliances, furniture, bedding and the Acme Home house brand. Reports to Robert Kowalski.
+
+Samuel Adeyemi - Category Manager, Books and Media. Employee ID ACM-0231. Joined in 2020. Responsible for print books, e-books, audiobooks and board games. Reports to Robert Kowalski.
+
+Isabella Rossi - Category Manager, Fashion and Apparel. Employee ID ACM-0245. Joined in 2021. Responsible for clothing, shoes, bags and the Northtrail outdoor apparel brand. Reports to Robert Kowalski.
+
+Jake Whitfield - Category Manager, Sports, Outdoors and Toys. Employee ID ACM-0252. Joined in 2021. Responsible for fitness equipment, camping gear, bicycles and toys. Reports to Robert Kowalski.
+
+Mei Lin - Category Manager, Grocery and Household Essentials. Employee ID ACM-0266. Joined in 2022. Responsible for pantry food, coffee, cleaning supplies and the AcmeBasics brand. Reports to Robert Kowalski.
+
+OTHER KEY EMPLOYEES
+
+Oliver Grant - Senior Software Engineer, Checkout Team. Employee ID ACM-0310. Joined in 2018. Rewrote the checkout service in 2024, cutting average checkout time from 41 seconds to 18 seconds. Reports to Liam O'Connor.
+
+Ananya Reddy - Staff Engineer, Search Team. Employee ID ACM-0322. Joined in 2019. Leads the semantic product search project that uses vector embeddings to improve search results. Reports to Liam O'Connor.
+
+Diego Fernandes - Fulfillment Center General Manager, Reno. Employee ID ACM-0405. Joined in 2016 as a warehouse associate and was promoted six times. Manages about 900 associates at the Reno site. Reports to Thomas Brennan.
+
+Chloe Martin - Customer Support Team Lead, Tampa. Employee ID ACM-0512. Joined in 2021. Leads a team of 25 agents handling Acme Plus member support. Her team has the highest CSAT score in the company at 96 percent. Reports to Aiko Tanaka.
+
+Ben Harper - Payroll and Benefits Manager. Employee ID ACM-0530. Joined in 2018. Handles payroll questions, 401(k) enrollment and health insurance. Reports to Marcus Chen.
+
+Yusuf Demir - Privacy and Compliance Analyst. Employee ID ACM-0544. Joined in 2022. Handles customer data deletion requests and privacy audits. Reports to Priya Natarajan.
+
+Lucy Bennett - Social Media Manager. Employee ID ACM-0561. Joined in 2023. Grew Acme's social media following from 400,000 to 1.3 million in 2025. Reports to Hannah Weiss.
+
+Arjun Mehta - Junior Data Analyst. Employee ID ACM-0602. Joined in June 2025 straight out of university. Built the returns analytics dashboard used by the customer experience team. Reports to Kevin Park.
+
+AWARDS AND RECOGNITION
+
+Acme gives out company awards every year at the Annual All-Hands meeting in December. Winners receive a crystal trophy, a cash bonus and two extra days of paid time off. The Employee of the Year bonus is 10,000 US dollars; all other awards carry a 5,000 US dollar bonus.
+
+Employee of the Year 2025: Diego Fernandes, Reno Fulfillment Center General Manager. He was recognized for reaching 99.6 percent on-time shipping during the 2025 holiday season and reducing workplace injuries at the Reno site by 40 percent.
+
+Employee of the Year 2024: Oliver Grant, Senior Software Engineer. He was recognized for rewriting the checkout service, which raised conversion rate by 3.1 percent.
+
+Employee of the Year 2023: Chloe Martin, Customer Support Team Lead. She was recognized for creating the "first contact resolution" playbook now used by all support teams.
+
+Employee of the Year 2022: Megan Lowe, Category Manager, Home and Kitchen. She was recognized for launching the Acme Home brand, which reached 120 million US dollars in sales in its first year.
+
+Innovation Award 2025: Ananya Reddy, Staff Engineer, for the semantic product search project, which increased search-to-purchase rate by 12 percent.
+
+Rookie of the Year 2025: Arjun Mehta, Junior Data Analyst, for the returns analytics dashboard, which helped cut the return rate on electronics from 9 percent to 6.5 percent.
+
+Customer Champion Award 2025: Aiko Tanaka, VP of Customer Experience, for raising company-wide CSAT from 88 percent to 93 percent.
+
+Leadership Excellence Award 2025: Sofia Delgado, COO, for leading the Reno fulfillment center launch and the same-day delivery expansion to 12 cities.
+
+Rising Star Award 2025: Lucy Bennett, Social Media Manager, for tripling Acme's social media following.
+
+Founders' Award 2025 (lifetime contribution): Robert Kowalski, VP of Merchandising, for 11 years of building Acme's product catalog from 2,000 to over 3 million items.
+
+Margaret Ellison was also named "Retail CEO of the Year 2024" by the (fictional) National E-Commerce Association.
+
+EMPLOYEE COUNT BY DEPARTMENT (November 2026)
+
+Fulfillment and Logistics: 2,650 employees
+Customer Experience: 720 employees
+Engineering and Technology: 610 employees
+Merchandising: 240 employees
+Marketing: 180 employees
+Finance and Accounting: 140 employees
+Human Resources (People): 110 employees
+Legal and Compliance: 45 employees
+Executive Office: 25 employees
+Total: approximately 4,720 employees

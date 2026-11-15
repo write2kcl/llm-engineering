@@ -1,0 +1,107 @@
+ACME CORPORATION - PRODUCT CATALOG
+Last updated: November 2026
+All prices are in US dollars. Prices and stock levels change often; this catalog is a snapshot.
+
+OVERVIEW
+
+Acme Corporation sells over 3 million products on acme-corp.example and in the Acme mobile app. Most products come from third-party brands, but Acme also sells its own house brands: Voltra (electronics), Acme Home (home and kitchen), Northtrail (outdoor apparel and gear) and AcmeBasics (everyday essentials). House brand products are designed by Acme and usually cost 20 to 35 percent less than comparable name-brand products.
+
+Customers can buy with credit card, debit card, PayPal, Acme Gift Cards or Acme Pay Later (pay in 4 interest-free installments on orders between 50 and 1,500 dollars). Every product page shows the average customer rating out of 5 stars.
+
+ACME PLUS MEMBERSHIP
+
+Acme Plus is Acme's paid membership program, launched in 2020. It costs 12.99 dollars per month or 119 dollars per year. Students with a valid .edu email pay 6.49 dollars per month. Acme Plus benefits include free two-day shipping on eligible items with no minimum order, free same-day delivery on orders over 35 dollars in supported cities, 5 percent back in Acme Rewards on house brand products, early access to Acme Days deals, and AcmeStream, a music and podcast streaming service. New members get a 30-day free trial. Acme Plus had 4.2 million members at the end of 2025.
+
+ACME DAYS
+
+Acme Days is Acme's biggest yearly sale, held for 48 hours every July and open only to Acme Plus members. During Acme Days 2025, Acme sold 6.8 million items. The best-selling item was the Voltra Echo Buds 2 wireless earbuds.
+
+CATEGORY: ELECTRONICS AND COMPUTERS (Category Manager: Carlos Ruiz)
+
+Voltra Echo Buds 2 - SKU EL-1001. Wireless noise-cancelling earbuds with 30 hours of battery life including the charging case, Bluetooth 5.3 and IPX5 water resistance. Price 59.99. Rating 4.6 stars from 48,200 reviews. Warranty: 1 year. House brand.
+
+Voltra Home Hub Mini - SKU EL-1002. Smart speaker with voice assistant, controls lights, plugs and thermostats. Comes in charcoal, sand and sage green. Price 39.99. Rating 4.4 stars. Warranty: 1 year. House brand.
+
+Voltra 65-inch 4K QLED Smart TV - SKU EL-1003. 120 Hz refresh rate, HDR10+, Dolby Atmos, three HDMI 2.1 ports. Price 649.00. Rating 4.5 stars. Warranty: 2 years. Free white-glove delivery and wall mounting is available for 79 dollars. House brand.
+
+ZenBook Pro 14 Laptop (brand: Lumina) - SKU EL-1004. 14-inch OLED display, 16 GB RAM, 1 TB SSD, 18-hour battery. Price 1,199.00. Rating 4.7 stars. Warranty: 1 year from the manufacturer; Acme Protect extended warranty available.
+
+PixelView Wireless Security Camera 2-Pack (brand: Hawkeye) - SKU EL-1005. 2K resolution, night vision, two-way audio, 6-month battery. Price 89.99. Rating 4.3 stars.
+
+Voltra PowerBank 20000 - SKU EL-1006. 20,000 mAh portable charger with 65 W USB-C fast charging, can charge a laptop. Price 34.99. Rating 4.6 stars. House brand.
+
+Acme Protect Extended Warranty - SKU EL-1099. Extends coverage on electronics for 2 or 3 years, including accidental damage such as drops and spills. Price is 10 to 15 percent of the product price. Must be purchased within 30 days of buying the product.
+
+CATEGORY: HOME AND KITCHEN (Category Manager: Megan Lowe)
+
+Acme Home 10-Piece Nonstick Cookware Set - SKU HK-2001. Ceramic nonstick coating, PFAS-free, oven safe up to 450 degrees Fahrenheit, works on induction cooktops. Price 129.99. Rating 4.5 stars from 22,900 reviews. Warranty: lifetime limited. House brand. Best-selling Acme Home product of 2025.
+
+Acme Home 6-Quart Air Fryer - SKU HK-2002. Digital touchscreen with 8 presets and a dishwasher-safe basket. Price 69.99. Rating 4.7 stars. Warranty: 1 year. House brand.
+
+BrewMaster Pro Espresso Machine (brand: Caffeto) - SKU HK-2003. 15-bar pump, built-in grinder, milk frother. Price 449.00. Rating 4.4 stars. Warranty: 2 years.
+
+Acme Home Cloud Memory Foam Mattress, Queen - SKU HK-2004. 12-inch medium-firm mattress with cooling gel layer. Ships compressed in a box. Price 399.00. Rating 4.5 stars. Comes with a 100-night home trial and a 10-year warranty. House brand.
+
+RoboSweep S7 Robot Vacuum (brand: Tidybot) - SKU HK-2005. Lidar navigation, self-emptying base, mops and vacuums. Price 529.00. Rating 4.3 stars.
+
+Acme Home Linen Blend Sheet Set, Queen - SKU HK-2006. 4-piece set in 9 colors. Price 79.99. Rating 4.6 stars. House brand.
+
+CATEGORY: BOOKS AND MEDIA (Category Manager: Samuel Adeyemi)
+
+Acme sells over 1.5 million book titles in print, e-book and audiobook formats. E-books are read in the free Acme Reader app. Acme Plus members can borrow one free e-book per month from the Acme Plus Library.
+
+"The Quiet Orbit" by Lena Hartfield (fictional novel) - SKU BK-3001. Science fiction, 412 pages. Hardcover 27.99, paperback 16.99, e-book 12.99, audiobook 24.99. Rating 4.8 stars. Acme Book of the Year 2025.
+
+"Data Without Drama" by Paul Arnet (fictional nonfiction) - SKU BK-3002. A practical guide to data analysis for business teams. Paperback 34.99, e-book 19.99. Rating 4.5 stars.
+
+Kingdom Builders Board Game (brand: Meeple Works) - SKU BK-3003. Strategy game for 2 to 5 players aged 10 and up, 60 to 90 minutes per game. Price 49.99. Rating 4.7 stars.
+
+CATEGORY: FASHION AND APPAREL (Category Manager: Isabella Rossi)
+
+Northtrail Summit Waterproof Jacket - SKU FA-4001. Men's and women's sizes XS to 3XL, breathable 3-layer shell, recycled fabric. Price 179.00. Rating 4.6 stars. House brand. Free returns on all sizes.
+
+Northtrail Everyday Hiking Boots - SKU FA-4002. Waterproof leather, Vibram outsole. Price 149.00. Rating 4.5 stars. House brand.
+
+AcmeBasics Crew Neck T-Shirt 5-Pack - SKU FA-4003. 100 percent cotton, available in 12 colors. Price 29.99. Rating 4.4 stars from 61,000 reviews. House brand.
+
+Stride Runner 5 Running Shoes (brand: Fleetfoot) - SKU FA-4004. Lightweight cushioned running shoe. Price 119.99. Rating 4.6 stars.
+
+CATEGORY: SPORTS, OUTDOORS AND TOYS (Category Manager: Jake Whitfield)
+
+Northtrail 4-Person Dome Tent - SKU SP-5001. Sets up in 8 minutes, rainfly included, weighs 9.5 pounds. Price 159.00. Rating 4.5 stars. House brand.
+
+FlexFit Adjustable Dumbbells (brand: IronCore) - SKU SP-5002. Pair adjusts from 5 to 52.5 pounds each. Price 299.00. Rating 4.7 stars. Ships in 2 boxes; not eligible for same-day delivery.
+
+TrailBlazer 27.5-inch Mountain Bike (brand: Ridgeline) - SKU SP-5003. 21-speed, aluminum frame, front suspension. Price 549.00. Rating 4.3 stars. Arrives 85 percent assembled; free assembly at partner bike shops.
+
+BrickTown Space Station Building Set (brand: BuildIt) - SKU TY-5101. 1,240 pieces, ages 9 and up. Price 89.99. Rating 4.8 stars.
+
+Plush Pals Sleepy Fox (brand: Cuddle Co.) - SKU TY-5102. 14-inch soft toy, machine washable, safe for ages 0 and up. Price 19.99. Rating 4.9 stars.
+
+CATEGORY: GROCERY AND HOUSEHOLD ESSENTIALS (Category Manager: Mei Lin)
+
+Grocery items are available for delivery in the Denver, Dallas, Columbus, Reno, Tampa and Phoenix areas only. Perishable grocery items cannot be returned (see policy.txt).
+
+AcmeBasics Medium Roast Whole Bean Coffee, 2 lb - SKU GR-6001. Fair Trade certified, Colombian beans. Price 18.99. Rating 4.5 stars. House brand. Available with Subscribe and Save.
+
+AcmeBasics Paper Towels, 12 Rolls - SKU GR-6002. Price 24.99. Rating 4.6 stars. House brand.
+
+AcmeBasics Laundry Detergent Pods, 81 Count - SKU GR-6003. Free and clear, for sensitive skin. Price 19.99. Rating 4.7 stars. House brand.
+
+Organic Rolled Oats, 5 lb (brand: Green Valley) - SKU GR-6004. Price 9.49. Rating 4.8 stars.
+
+SUBSCRIBE AND SAVE
+
+Subscribe and Save gives 10 percent off grocery and household items delivered automatically every 1, 2, 3 or 6 months. Customers who have 5 or more active subscriptions get 15 percent off. Subscriptions can be skipped or cancelled at any time with no fee.
+
+GIFT CARDS
+
+Acme Gift Cards are available from 10 to 2,000 dollars as digital (email) or physical cards. Gift cards never expire and have no fees. They cannot be redeemed for cash except where the law requires it.
+
+TOP 5 BEST-SELLING PRODUCTS OF 2025
+
+1. Voltra Echo Buds 2 (EL-1001) - 2.1 million units sold
+2. AcmeBasics Crew Neck T-Shirt 5-Pack (FA-4003) - 1.6 million units sold
+3. Acme Home 6-Quart Air Fryer (HK-2002) - 1.2 million units sold
+4. AcmeBasics Paper Towels, 12 Rolls (GR-6002) - 1.1 million units sold
+5. Voltra Home Hub Mini (EL-1002) - 940,000 units sold
